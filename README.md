@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 成功高中 - 高二<br>🌱 https://mlgnotcool.github.io/about/<br>💬 @mlgnotcool<br>💛 興趣：Minecraft、影片剪輯、寫程式、打爵士鼓<br>⚡學術力：競程、演算法、網頁設計、python (包含flask, dcbot)<br>📚證書：APCS 中高級 5+4、多益 975、北市賽三等獎 第17名
+🔭 CGSH 212 / CKCSC38th - 教學+網管<br>🌱 https://mlgnotcool.github.io/about/<br>💬 MLGnotCOOL<br>💛 興趣：Minecraft、影片剪輯、寫程式、打爵士鼓<br>⚡學術力：競程、演算法、網頁設計、python (包含flask, dcbot)<br>📚證書：APCS 中高級 5+4、多益 975、北市賽三等獎 第17名<br>💻 linux mint user
 
 
 ## 🌐 Socials:
